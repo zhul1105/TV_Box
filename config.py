@@ -1,3 +1,4 @@
+open_update = True
 source_file = "demo.txt"
 final_file = "result.txt"
 favorite_list = [
@@ -13,7 +14,7 @@ favorite_list = [
     "湖南卫视",
     "翡翠台",
 ]
-open_online_search = False
+open_online_search = True
 favorite_page_num = 5
 default_page_num = 3
 urls_limit = 15
@@ -32,3 +33,5 @@ subscribe_urls = [
 ]
 open_multicast = True
 region_list = ["all"]
+open_proxy = True
+open_driver = False
